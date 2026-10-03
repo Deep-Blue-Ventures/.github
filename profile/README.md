@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Deep Blue Ventures: the holding company for our ocean ventures" width="100%">
+  <img src="banner.png" alt="Deep Blue Ventures: building the companies that will understand, operate in, and protect the ocean. Ocean systems, autonomy, intelligence, infrastructure." width="100%">
 </p>
 
 <p align="center">
